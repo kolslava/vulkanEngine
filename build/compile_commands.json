@@ -1,0 +1,290 @@
+[
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\backends\\imgui_impl_vulkan.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\backends\\imgui_impl_vulkan.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/backends/imgui_impl_vulkan.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/backends/imgui_impl_vulkan.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\imgui.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\imgui.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/imgui.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\imgui_demo.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\imgui_demo.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/imgui_demo.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\imgui_draw.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\imgui_draw.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/imgui_draw.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\imgui_tables.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\imgui_tables.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/imgui_tables.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\__\\external\\imgui\\imgui_widgets.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\imgui\\imgui_widgets.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/imgui/imgui_widgets.cpp",
+  "output": "EngineCore/CMakeFiles/ImGui.dir/__/external/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\Application.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\Application.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/Application.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/Application.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\Camera.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\Camera.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/Camera.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/Camera.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\Logger.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\Logger.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/Logger.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/Logger.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\Renderer.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\Renderer.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/Renderer.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/Renderer.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\ConsolePanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\ConsolePanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/ConsolePanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/ConsolePanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\DeviceInfoPanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\DeviceInfoPanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/DeviceInfoPanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/DeviceInfoPanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\InspectorPanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\InspectorPanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/InspectorPanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/InspectorPanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\MainMenuPanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\MainMenuPanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/MainMenuPanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/MainMenuPanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\SceneHierarchyPanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\SceneHierarchyPanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/SceneHierarchyPanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/SceneHierarchyPanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\SystemInfoPanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\SystemInfoPanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/SystemInfoPanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/SystemInfoPanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineCore.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineCore.dir\\src\\EngineCore\\UI\\ViewportPanel.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineCore\\src\\EngineCore\\UI\\ViewportPanel.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineCore/src/EngineCore/UI/ViewportPanel.cpp",
+  "output": "EngineCore/CMakeFiles/EngineCore.dir/src/EngineCore/UI/ViewportPanel.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\context.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/context.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\init.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/init.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\input.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/input.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\monitor.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/monitor.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\platform.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/platform.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\vulkan.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/vulkan.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\window.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/window.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\egl_context.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/egl_context.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\osmesa_context.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/osmesa_context.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\null_init.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/null_init.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\null_monitor.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/null_monitor.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\null_window.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/null_window.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\null_joystick.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/null_joystick.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_module.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_module.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_time.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_time.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_thread.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_thread.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_init.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_init.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_joystick.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_joystick.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_monitor.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_monitor.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\win32_window.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/win32_window.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glfw/src",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DUNICODE -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c D:\\Projects\\Local\\GameEngine\\external\\glfw\\src\\wgl_context.c",
+  "file": "D:/Projects/Local/GameEngine/external/glfw/src/wgl_context.c",
+  "output": "EngineCore/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\spdlog.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/spdlog.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\stdout_sinks.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/stdout_sinks.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\color_sinks.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/color_sinks.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\file_sinks.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/file_sinks.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\async.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\async.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/async.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\cfg.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/cfg.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/spdlog",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\bundled_fmtlib_format.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\spdlog\\src\\bundled_fmtlib_format.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/spdlog/src/bundled_fmtlib_format.cpp",
+  "output": "EngineCore/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineCore/glm/glm",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/glm.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c D:\\Projects\\Local\\GameEngine\\external\\glm\\glm\\detail\\glm.cpp",
+  "file": "D:/Projects/Local/GameEngine/external/glm/glm/detail/glm.cpp",
+  "output": "EngineCore/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Local/GameEngine/build/EngineEditor",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/EngineEditor.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\EngineEditor.dir\\src\\main.cpp.obj -c D:\\Projects\\Local\\GameEngine\\EngineEditor\\src\\main.cpp",
+  "file": "D:/Projects/Local/GameEngine/EngineEditor/src/main.cpp",
+  "output": "EngineEditor/CMakeFiles/EngineEditor.dir/src/main.cpp.obj"
+}
+]

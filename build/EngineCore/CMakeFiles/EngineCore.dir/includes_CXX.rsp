@@ -1,0 +1,1 @@
+-ID:/Projects/Local/GameEngine/EngineCore/include -ID:/Projects/Local/GameEngine/EngineCore/src -ID:/Projects/Local/GameEngine/external/spdlog/include -ID:/Projects/Local/GameEngine/external/glm -ID:/Projects/Local/GameEngine/EngineCore/../external/imgui -ID:/Projects/Local/GameEngine/external/glfw/include -isystem C:/VulkanSDK/1.4.321.1/include

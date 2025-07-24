@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Projects/Local/GameEngine/build/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/glfw/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/glfw/src/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/glfw/docs/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/spdlog/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/glm/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineCore/glm/glm/cmake_install.cmake",
+		"D:/Projects/Local/GameEngine/build/EngineEditor/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

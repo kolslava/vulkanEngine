@@ -1,0 +1,1 @@
+ ../EngineCore/libEngineCore.a ../EngineCore/libImGui.a "C:/VulkanSDK/1.4.321.1/Lib/vulkan-1.lib" ../EngineCore/spdlog/libspdlogd.a ../EngineCore/glm/glm/libglm.a ../EngineCore/glfw/src/libglfw3.a -lPdh -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

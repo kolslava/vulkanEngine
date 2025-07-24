@@ -1,0 +1,294 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						8
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "EngineCore",
+					"childIndexes" : 
+					[
+						2,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-EngineCore-Debug-42f4726ea61889256f51.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "EngineCore",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "EngineCore/glfw",
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-EngineCore.glfw-Debug-54c028f745b2634d9425.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "external/glfw",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "EngineCore/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-EngineCore.glfw.src-Debug-a1d7608894362b873754.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "external/glfw/src",
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				},
+				{
+					"build" : "EngineCore/glfw/docs",
+					"jsonFile" : "directory-EngineCore.glfw.docs-Debug-711ca4965738b720b612.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "external/glfw/docs"
+				},
+				{
+					"build" : "EngineCore/spdlog",
+					"jsonFile" : "directory-EngineCore.spdlog-Debug-885fe6cc41de8615d358.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "external/spdlog",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "EngineCore/glm",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-EngineCore.glm-Debug-6acca4fffa5186956a38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "external/glm"
+				},
+				{
+					"build" : "EngineCore/glm/glm",
+					"jsonFile" : "directory-EngineCore.glm.glm-Debug-49a48fbb6535012f0eb7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "external/glm/glm",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "EngineEditor",
+					"jsonFile" : "directory-EngineEditor-Debug-669b679b8d237244da8d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "EngineEditor",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						8
+					],
+					"name" : "VulkanEngine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						6,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6,
+						7
+					],
+					"name" : "glm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "EngineCore::@a18a8ffece46fe813840",
+					"jsonFile" : "target-EngineCore-Debug-c79f334d736ee2bae1be.json",
+					"name" : "EngineCore",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "EngineEditor::@7a1133e714ec08381be2",
+					"jsonFile" : "target-EngineEditor-Debug-35e3b7353b0d47ab130b.json",
+					"name" : "EngineEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ImGui::@a18a8ffece46fe813840",
+					"jsonFile" : "target-ImGui-Debug-b10708aa4321d0f4b456.json",
+					"name" : "ImGui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glfw::@83baf0773ba60fb4fc78",
+					"jsonFile" : "target-glfw-Debug-9717b75a180b3817b8c3.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "glm::@92f522b5c01a40969c51",
+					"jsonFile" : "target-glm-Debug-57068e5178dca667bb6b.json",
+					"name" : "glm",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "spdlog::@5ee41b83c3bf739538f1",
+					"jsonFile" : "target-spdlog-Debug-e6de4a157c1545112f9b.json",
+					"name" : "spdlog",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "uninstall::@384c7b1fe8c72c3f6b5a",
+					"jsonFile" : "target-uninstall-Debug-7dee18082d09795fb519.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "update_mappings::@83baf0773ba60fb4fc78",
+					"jsonFile" : "target-update_mappings-Debug-9cd1b4e5e7f7dddad4b9.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/Local/GameEngine/build",
+		"source" : "D:/Projects/Local/GameEngine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
